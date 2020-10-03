@@ -11,9 +11,9 @@
 
 - 📝 I regulary write articles on [Quora](https://www.quora.com)
 
-- 💬 Ask me about **my projects**
+- 💬 Ask me "**Why Smart Homes are cool?**"
 
-- 📫 How to reach me **me@mohammedfarish.com**
+- 📫 How to reach me **farish@amnuz.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
