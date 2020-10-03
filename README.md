@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A backend developer from India</h3>
 
 - 🔭 I’m currently working at [Amnuz Technologies](https://www.amnuz.com) (Co-Founded)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Qraphql**
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **Futuristic JavaScript Projects**
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [https://instagram.com/mohammed_farish](https://instagram.com/mohammed_farish)
-
-- 📝 I regulary write articles on [Quora](Quora)
+- 📝 I regulary write articles on [Quora](https://www.quora.com)
 
 - 💬 Ask me about **my projects**
 
