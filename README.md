@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working at [Amnuz Technologies](https://www.amnuz.com) (Co-Founded)
 
+- 🏠 I develop **Smart Homes**
+
 - 🌱 I’m currently learning **Qraphql**
 
 - 👯 I’m looking to collaborate on **Futuristic JavaScript Projects**
