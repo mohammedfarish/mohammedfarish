@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farish</h1>
 <h3 align="center">A backend developer from India</h3>
 
-- 🔭 I’m currently working at [Amnuz Technologies](https://www.amnuz.com) (Co-Founded)
-
-- 🏠 I develop **Smart Homes**
+- 🔭 I develop Smart Homes with [Amnuz Technologies](https://www.amnuz.com) (Co-Founded)
 
 - 🌱 I’m currently learning **Qraphql**
 
