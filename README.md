@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working as [Amnuz Technologies](https://www.amnuz.com)
+- 🔭 I’m currently working at [Amnuz Technologies](https://www.amnuz.com) (Co-Founded)
 
 - 🌱 I’m currently learning **Java**
 
