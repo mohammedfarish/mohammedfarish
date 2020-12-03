@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Futuristic JavaScript Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **React**
 
 - 📝 I regulary write articles on [Quora](https://www.quora.com)
 
