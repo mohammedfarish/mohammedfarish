@@ -13,7 +13,7 @@
 
 - 💬 Ask me "**Why Smart Homes are cool?**"
 
-- 📫 How to reach me **farish@amnuz.com**
+- 📫 How to reach me **me@mohammedfarish.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
