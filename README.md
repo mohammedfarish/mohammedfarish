@@ -19,4 +19,3 @@
 <a href="https://fb.com/weezy978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="weezy978" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_farish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohammed_farish" height="30" width="40" /></a>
 </p>
-<img src="https://hit.yhype.me/github/profile?user_id=62788088" alt="."/>
