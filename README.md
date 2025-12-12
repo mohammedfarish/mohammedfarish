@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Farish</h1>
 <h3 align="center">A Software Developer</h3>
 
-- 🔭 I develop **Softwares** with [Telkom Communications](https://www.telkomcommunications.com/) and [Amnuz Technologies](https://www.amnuz.com)
+- 🔭 I develop **Softwares** with [EASYGOFLIGHTS](https://www.easygoflights.com/) and [Amnuz Technologies](https://www.amnuz.com)
 
 - 👯 I’m looking to collaborate on **Futuristic Projects**
 
-- 📝 I regulary write articles on [Quora](https://www.quora.com)
+- 📝 I regulary read and write articles on [Quora](https://www.quora.com)
 
 - 💬 Ask me "**Why softwares are cooler than apps?**"
 
